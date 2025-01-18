@@ -1,0 +1,17 @@
+{
+    "description": "i will use this domain for my player stats for trivia channel on IRC DALnet.",
+
+    "domain": "localplayer.dev",
+    "subdomain": "trivia",
+
+    "owner": {
+        "repo": "https://github.com/Bossfrosty",
+        "email": "mail@ircsiargao.com"
+    },
+
+    "record": {
+        "AAAA": ["2604:180:f4::290"]
+    },
+
+    "proxied": false
+}
